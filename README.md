@@ -1,7 +1,8 @@
 # Seedling-vhack
 This project is Front-End Prototype Conceptual Project... For tournament requirement..
 
-A new Flutter project.
+For Testing:
+Can download APK (For Android Devices Only) at Releases Section (Right Side)
 
 ## Getting Started
 
